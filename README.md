@@ -1,1 +1,1 @@
-# Huawei-Training-AI-HCIA-AI-
+# Huawei-Training-HCIA-AI-
