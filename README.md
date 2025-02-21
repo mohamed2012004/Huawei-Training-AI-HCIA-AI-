@@ -6,14 +6,14 @@ During my internship at Huawei AI, I worked on multiple impactful projects that 
 
 ## Projects
 
-### 1. CIFAR Data Classification using ResNet & Fine-Tuning
+### 1. CIFAR Data Classification using ResNet & Fine-Tuning(PyTorch)
 - **Objective:** Classify CIFAR dataset images accurately.
 - **Approach:**
   - Used **ResNet** for feature extraction.
   - Applied **fine-tuning** techniques to improve model performance.
 - **Outcome:** Achieved high classification accuracy by optimizing hyperparameters and tuning the model effectively.
 
-### 2. Stock Price Prediction using Linear Regression (Time Series)
+### 2. Stock Price Prediction using Linear Regression (Time Series)(TensorFlow)
 - **Objective:** Predict stock prices using historical data.
 - **Approach:**
   - Implemented **Linear Regression (LS)** for time series forecasting.
